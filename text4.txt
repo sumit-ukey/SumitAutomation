@@ -1,1 +1,2 @@
 fourth file
+java -jar agent.jar -jnlpUrl http://172.31.27.254:8080/computer/slave/jenkins-agent.jnlp -secret c00a9692d400c979f6f40c9827ef2e2107ff17360838611e70c170508a30312f -workDir "/home/ubuntu/jenkins"
